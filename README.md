@@ -16,7 +16,7 @@ To run Node.js server run:
 #### `node server.js`
 
 ### What you need to change to make it work for you?
-Set a proper base URL in `Api.tsx`. Because it is just hard coded. Basically react app and node.js server runs in your local network. But to test this app in your phone (for example), you need to set IP of your local network in the base url in `App.tsx`.
+Set a proper base URL in `Api.tsx`. Because it is just hard coded. Basically react app and node.js server runs in your local network. But to test this app in your phone (for example), you need to set IP of your local network in the base url in `Api.tsx`.
 
 ## Preview:
 ![preview](https://i.imgur.com/UNLHUAd.png)
